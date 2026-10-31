@@ -10,7 +10,7 @@ I am a Postdoctoral Researcher in the Quantitative Psychology and Individual Dif
 
   Developer and maintainer of [`mmgsem`](https://andresfpa.github.io/mmgsem/), an R package implementing Mixture Multigroup SEM.
   
-- 🔬 **Extra Research Interest**
+- 🔬 **(Another) Research Interest**
   
   Integrating Computer Vision outputs (e.g., facial landmark detection) to measure latent psychological constructs (e.g., emotion).
   
