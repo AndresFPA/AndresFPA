@@ -1,13 +1,23 @@
 Hi there 👋
 
-- **Who I Am** 🧍
+I am a Postdoctoral Researcher in the Quantitative Psychology and Individual Differences group at KU Leuven, specializing in quantitative methodology and latent variable modeling.
 
-  I am Andres, a random guy interested in Statistics. Currently, I work as a Postdoctoral researcher in the Research Group of Quantitative Psychology and Individual Differences at KU Leuven.
-
-- **What I Do** :bar_chart:
-
-  I develop statistical methods to analyze complex behavioral data in the social sciences. My main work lies in the intersection between *Structural Equation Modeling (SEM)* and *Mixture Modeling* (also known as *model-based clustering*). You can check my `mmgsem` R package [here](https://andresfpa.github.io/mmgsem/) :package:.
+- 📊 **Research Focus**
   
-- **Beyond Work** 
+  Developing statistical methods for complex behavioral data. My research lies at the intersection of *Structural Equation Modeling (SEM)* and *Mixture Modeling (model-based clustering)*.
+  
+- 📦 **Software**
 
-  Running 🏃, video games 🎮, books 📖, and movies 🎥 summarize my simple hobbies. Research-related? Recently, I have also been interested in using Computer Vision outputs (i.e., facial landmark detection) to measure latent variables (e.g., emotions). Very early research!
+  Developer and maintainer of [`mmgsem`](https://andresfpa.github.io/mmgsem/), an R package implementing Mixture Multigroup SEM.
+  
+- 🔬 **Extra Research Interest**
+  
+  Integrating Computer Vision outputs (e.g., facial landmark detection) to measure latent psychological constructs (e.g., emotion).
+  
+- 🏃🎮 **Beyond Research**
+  
+  Running, video games, reading, and film.
+
+- 📫 **Contact?**
+
+  You can email to [af.perez.alonso@gmail.com](mailto:af.perez.alonso@gmail.com)
