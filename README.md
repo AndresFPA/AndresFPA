@@ -20,4 +20,4 @@ I am a Postdoctoral Researcher in the Quantitative Psychology and Individual Dif
 
 - 📫 **Contact?**
 
-  You can email to [af.perez.alonso@gmail.com](mailto:af.perez.alonso@gmail.com)
+  You can email me at [af.perez.alonso@gmail.com](mailto:af.perez.alonso@gmail.com)
